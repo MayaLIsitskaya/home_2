@@ -1,0 +1,145 @@
+.body {
+    color: #292929;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background: #5a226b;
+    padding: 1rem;
+}
+
+.header_nav_bar{
+    text-align: center;
+    color: #ffffff;
+    padding: 1rem;
+}
+
+#header_phone_number {
+    text-align: right;
+    color: #ffffff;
+}
+.main_menu_sections {
+    margin:0;
+    padding-top: 1rem;
+}
+.section_lists {
+    margin:0;
+    padding-top: 1rem;
+    text-align: center;
+    font-size: 24px;
+}
+
+.section_lists_description {
+    text-align: center;
+}
+
+.list_title {
+    color: #c45be4;
+    margin: 0;
+    font-size: 20px;
+}
+
+.list_images {
+    padding-left: 1rem;
+}
+
+.description_text_color {
+    color: #c45be4;
+    font-size: 18px;
+}
+
+.description_text_size {
+    font-size: 12px;
+}
+
+.section_cards {
+    background:#34163d;
+    padding: 2rem;
+    margin: 1rem;
+}
+
+.title_section_cards {
+    text-align: center;
+    margin:0;
+    padding: 0;
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.card_figure {
+    padding-bottom: 1rem;
+}
+
+.card_title {
+    color: #ffffff;
+    font-size: 21px;
+}
+
+.section_cards_description {
+    padding-top: 1rem;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.price {
+    color:burlywood;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.cost {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.sections_text {
+   padding: 1rem;
+}
+
+.title_section_text{
+    font-size: 24px;
+    text-align: center;
+}
+
+.section_text_pink {
+    color: #c45be4;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 20px;
+}
+
+.section_text_darkgreen {
+    color: #056464;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 17px;
+}
+
+.section_text_red {
+    color: #ce326e;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 15px;
+}
+
+.section_text_purple {
+    color: #4e2aaf;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+}
+
+.section_text_lightgreen {
+    color: #37c967;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+}
+
+.footer_nav_bar {
+    padding: 2rem;
+    text-align: center;
+    background: #1f1f1f;
+}
+
+.nav_bar_white {
+    color: #ffffff;
+}
